@@ -66,7 +66,7 @@ xattr -cr /Applications/HEMS-Demonstrator.app
 
 ## 🌐 3. Bedienung im Browser & Beenden der Anwendung
 
-* **Automatischer Browser-Start:** Nach dem Start der Anwendung fährt im Hintergrund der lokale Simulations-Server hoch und öffnet nach ca. 3–5 Sekunden automatisch deinen Standardbrowser unter der Adresse **`http://localhost:8080`**.
+* **Automatischer Browser-Start:** Nach dem Start der Anwendung fährt im Hintergrund der lokale Simulations-Server hoch und öffnet nach ca. 3–5 Sekunden automatisch deinen Standardbrowser unter der Adresse **`http://localhost:18080`**.
 * **Manuelles Öffnen:** Sollte sich das Browserfenster nicht von selbst öffnen, gib einfach **`http://localhost:18080`** in die Adresszeile eines beliebigen Browsers (Chrome, Edge, Firefox, Safari) ein.
 * **Sauberes Beenden:** Da die Standalone-App als Hintergrundprozess läuft, reicht das bloße Schließen des Browser-Tabs nicht aus, um den Server zu stoppen. Klicke zum vollständigen Beenden bitte oben rechts in der Kopfleiste des Dashboards auf den Button **`⏹️ Beenden`**.
 
